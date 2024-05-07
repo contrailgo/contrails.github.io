@@ -6,7 +6,7 @@
     <title>Image Upload</title>
 </head>
 <body>
-    <h1>이미지 업로드</h1>
+    <h1>https://ibb.co/KLphzMH</h1>
     
     <input type="file" accept="image/*" id="uploadInput" onchange="previewImage(event)">
     <br>
